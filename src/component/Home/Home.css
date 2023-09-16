@@ -1,0 +1,34 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.Home img {
+  height: 300px;
+  width: 300px;
+  margin-bottom: 22px;
+}
+.Home div {
+  color: #000;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 15px;
+}
+
+.Home button {
+  height: 40px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  border: none;
+  margin-top: 20px;
+  background: linear-gradient(135deg, #30f 0%, #fa00ff 98.32%);
+}
