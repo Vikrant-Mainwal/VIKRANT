@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VIKRANT/static/css/main.fff74f42.css",
-    "main.js": "/VIKRANT/static/js/main.72a38f89.js",
-    "static/js/787.c6a9a21d.chunk.js": "/VIKRANT/static/js/787.c6a9a21d.chunk.js",
-    "index.html": "/VIKRANT/index.html",
-    "main.fff74f42.css.map": "/VIKRANT/static/css/main.fff74f42.css.map",
-    "main.72a38f89.js.map": "/VIKRANT/static/js/main.72a38f89.js.map",
-    "787.c6a9a21d.chunk.js.map": "/VIKRANT/static/js/787.c6a9a21d.chunk.js.map"
+    "main.css": "/Dipsikha/static/css/main.fff74f42.css",
+    "main.js": "/Dipsikha/static/js/main.b4f79dc2.js",
+    "static/js/787.c6a9a21d.chunk.js": "/Dipsikha/static/js/787.c6a9a21d.chunk.js",
+    "index.html": "/Dipsikha/index.html",
+    "main.fff74f42.css.map": "/Dipsikha/static/css/main.fff74f42.css.map",
+    "main.b4f79dc2.js.map": "/Dipsikha/static/js/main.b4f79dc2.js.map",
+    "787.c6a9a21d.chunk.js.map": "/Dipsikha/static/js/787.c6a9a21d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fff74f42.css",
-    "static/js/main.72a38f89.js"
+    "static/js/main.b4f79dc2.js"
   ]
 }
